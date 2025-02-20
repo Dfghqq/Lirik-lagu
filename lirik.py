@@ -39,20 +39,15 @@ def animate_text(text, delay=0.05):
 # Fungsi menampilkan lirik sesuai waktu lagu
 def sing_song():
     lyrics = [
+        ("Sempurnalah duniaku saat kau di sisiku", 2.5),
         ("Kar'na kamu cantik", 2.0),
-        ("'Kan kuberi s'galanya apa yang kupunya", 2.5),
+        ("'Kan kuberi s'galanya apa yang kupunya", 2.0),
         ("Dan hatimu baik", 2.0),
         ("Sempurnalah duniaku saat kau di sisiku", 2.5),
         ("Bukan kar'na make up di wajahmu", 2.0),
         ("Atau lipstik merah itu (di bibirmu)", 2.0),
         ("Lembut hati tutur kata", 1.5),
         ("Terciptalah cinta yang kupuja", 3.0),
-        ("Tak peduli langit menertawakanku", 2.5),
-        ("Kau mencuri mencuri hatiku, mimpiku, semua rinduku", 3.0),
-        ("Kar'na kamu cantik", 2.0),
-        ("'Kan kuberi s'galanya apa yang kupunya", 2.5),
-        ("Dan hatimu baik", 2.0),
-        ("Sempurnalah duniaku saat kau di sisiku", 2.5),
     ]
 
     print("\nMenampilkan lirik lagu...\n")
